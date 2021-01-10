@@ -34,3 +34,9 @@ padding: 10px;
 float: none;
 text-align: left;
 }
+#Name1{
+	display: inline-block;
+}
+#Name2{
+	display: inline-block;
+}
